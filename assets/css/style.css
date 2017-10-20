@@ -1,0 +1,84 @@
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+.styling {
+  color: #ffffff;
+  background-color: #0E1414;
+}
+.styling .headerUnderline {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+}
+.styling h1 {
+  font-size: 30px;
+  text-align: center;
+  border-bottom: 1px solid #ffffff;
+  padding-bottom: 20px;
+}
+.styling a {
+  color: #ffffff;
+}
+.styling a img {
+  margin-left: auto;
+  margin-right: auto;
+}
+.styling a h4 {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 900;
+  margin-top: 25px;
+}
+.styling a p {
+  text-align: center;
+  font-size: 16px;
+}
+.stylingShape {
+  color: #ffffff;
+  background-color: #0E1414;
+}
+.stylingShape .firstImageStyling {
+  padding-right: 0px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  padding-left: 25px;
+}
+.stylingShape .secondImageStyling {
+  padding-left: 15px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+.stylingShape .secondImageStyling img {
+  margin-bottom: 15px;
+}
+.stylingShape .thirdColStyling {
+  margin-top: 35px;
+  margin-bottom: 60px;
+}
+.stylingShape .thirdColStyling h1 {
+  font-size: 30px;
+  text-align: left;
+  border-bottom: 1px solid #ffffff;
+  padding-bottom: 20px;
+}
+.stylingShape .thirdColStyling h4 {
+  text-align: left;
+  font-size: 16px;
+  font-weight: 900;
+  margin-top: 25px;
+  line-height: 1.6;
+}
+.stylingShape .thirdColStyling p {
+  text-align: left;
+  font-size: 14px;
+  line-height: 1.6;
+}
+.stylingShape .thirdColStyling span {
+  text-align: left;
+  color: #911426;
+  font-size: 14px;
+  padding-top: 35px;
+  display: block;
+  font-weight: 900;
+}
